@@ -1,0 +1,3 @@
+jonathan.porter@vocalize.dev
+
+https://www.amazon.jobs/en/search.json?base_query=&business_category%5B%5D=alexa&city=&country=&county=&facets%5B%5D=location&facets%5B%5D=business_category&facets%5B%5D=category&facets%5B%5D=schedule_type_id&facets%5B%5D=employee_class&facets%5B%5D=normalized_location&facets%5B%5D=job_function_id&latitude=&loc_group_id=&loc_query=&longitude=&offset=0&query_options=&radius=24km&region=&result_limit=2000&sort=relevant
